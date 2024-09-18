@@ -1,0 +1,68 @@
+.speaker-div {
+  border-radius: 10px;
+  background-color: #0f6fec;
+}
+
+.speaker-div h5 {
+  color: white;
+}
+
+.search-box {
+  background-color: #eef0f2;
+}
+
+.search-box input {
+  background-color: #eef0f2;
+}
+
+.search{
+  padding: 8px;  
+  border-radius: 10px;
+  background-color: #eef0f2;
+  z-index: 1;
+}
+
+.specific-search-box{
+  border: none;
+}
+
+.specific-search-box:focus-visible{
+  outline: 0;
+}
+
+.menu-options .icons {
+  background-color: #eef0f200;
+}
+
+.profile-div img {
+  width: 32px;
+  height: 30px;
+}
+
+.profile {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.nav-menu {
+  border: none;
+  position: relative;
+  display: inline-block;
+  background-color: transparent;
+}
+
+.nav-menu:hover + .dropdown-content {  
+  display: block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  border-radius: 10px;
+  border: 2px solid black;
+}
+
+.dropdown-content:hover {  
+  display: block;
+}

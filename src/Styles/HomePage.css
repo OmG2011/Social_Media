@@ -1,0 +1,87 @@
+.main_div {
+  background-color: #eff2f6;
+}
+
+.section-1 {
+  height: fit-content;
+ 
+}
+
+.section-1-inner-div {
+  height: 100%;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.section-1 p {
+  color: #797c89;
+}
+
+.banner-img-div {
+  height: 4%;
+  overflow: hidden;
+  background-color: red;
+}
+
+.banner-img {
+  width: 100%;
+}
+
+.profile-pic-div {
+  width: 30%;
+}
+
+.profile-pic {
+  width: 100%;
+  border-radius: 20px;
+  border: 3px white solid;
+  transform: translate(0px, -25px);
+}
+
+.name {
+  font-size: 25px;
+}
+
+.tagline {
+  font-size: 18px;
+}
+
+.vl {
+  border-left: 2px solid #797c895c;
+  height: 100%;
+}
+
+.user-stats span {
+  color: #797c89;
+  font-weight: normal;
+}
+/* 
+.section-2 {
+  width: auto;
+  height: auto;
+} */
+
+.section-2-story-row {
+  height: 9%;
+}
+
+.create-story {
+  border-radius: 10px;
+  background-color: white;
+  border: 2px dotted #797c89;
+}
+
+.story {
+  height: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+
+.add-post input{
+  border: none;
+}
+
+.add-post input:focus-visible{
+  outline: 0;
+}

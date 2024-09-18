@@ -1,0 +1,15 @@
+.main-div{
+  width: 30% !important;
+  display: inline-block;
+  height: 80%;
+}
+
+.bg-img{
+  width: 100%;  
+  border-radius: 10px;
+}
+
+.main-div p{
+  color: white;
+  transform: translate(0px, -30px);
+}

@@ -1,0 +1,11 @@
+.inner-div-pageNotFound {
+  background-image: url('https://wallpaper.dog/large/11034683.jpg');
+  background-size: 'cover'
+}
+
+.inner-div-pageNotFound button{
+  border: none;
+  border-radius: 20px;
+  background-color: #448699;
+  color: white;
+}
