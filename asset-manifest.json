@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Social_Media/static/css/main.3b8cbc3a.css",
-    "main.js": "/Social_Media/static/js/main.ec495924.js",
-    "static/js/453.ad12f774.chunk.js": "/Social_Media/static/js/453.ad12f774.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/Social_Media/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/Social_Media/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "index.html": "/Social_Media/index.html",
-    "main.3b8cbc3a.css.map": "/Social_Media/static/css/main.3b8cbc3a.css.map",
-    "main.ec495924.js.map": "/Social_Media/static/js/main.ec495924.js.map",
-    "453.ad12f774.chunk.js.map": "/Social_Media/static/js/453.ad12f774.chunk.js.map"
+    "main.css": "/static/css/main.4197b784.css",
+    "main.js": "/static/js/main.a74dff88.js",
+    "static/js/453.ad12f774.chunk.js": "/static/js/453.ad12f774.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/index.html",
+    "main.4197b784.css.map": "/static/css/main.4197b784.css.map",
+    "main.a74dff88.js.map": "/static/js/main.a74dff88.js.map",
+    "453.ad12f774.chunk.js.map": "/static/js/453.ad12f774.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b8cbc3a.css",
-    "static/js/main.ec495924.js"
+    "static/css/main.4197b784.css",
+    "static/js/main.a74dff88.js"
   ]
 }
