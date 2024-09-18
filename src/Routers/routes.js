@@ -9,13 +9,13 @@ function routes(props) {
   return (
     <div>
       <Routes>
-        <Route path="/" element={
+        <Route path="/Social_Media" element={
           <>
             <Header />
             <HomePage />
           </>
         } />
-        <Route path='/login' element={<Login />} />
+        {/* <Route path='/login' element={<Login />} /> */}
         <Route path='*' element={<PageNotFound />} />
       </Routes>
     </div>
