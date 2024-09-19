@@ -9,7 +9,7 @@ function routes(props) {
   return (
     <div>
       <Routes>
-        <Route path="/Social_Media" element={
+        <Route path="/" element={
           <>
             <Header />
             <HomePage />
